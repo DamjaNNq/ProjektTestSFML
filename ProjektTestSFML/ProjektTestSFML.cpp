@@ -18,8 +18,8 @@ int main()
 
         window.clear();
         window.draw(shape);
-        window.display();
+        window.display();//razraz
     }
-
+    //20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
     return 0;
 }
