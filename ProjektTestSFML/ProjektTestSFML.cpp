@@ -22,5 +22,6 @@ int main()
     }
     //kurwy jebac
     /djdjdjdjdjdj
+        if(balala;lasd)
     return 0;
 }
