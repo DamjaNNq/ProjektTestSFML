@@ -20,6 +20,6 @@ int main()
         window.draw(shape);
         window.display();
     }
-
+    //kurwy jebac
     return 0;
 }
