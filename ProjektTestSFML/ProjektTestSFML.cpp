@@ -21,5 +21,6 @@ int main()
         window.display();
     }
     //kurwy jebac
+    /djdjdjdjdjdj
     return 0;
 }
