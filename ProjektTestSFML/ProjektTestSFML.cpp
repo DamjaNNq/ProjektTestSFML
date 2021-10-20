@@ -20,6 +20,8 @@ int main()
         window.draw(shape);
         window.display();//razraz
     }
-    //20000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    //kurwy jebac
+    /djdjdjdjdjdj
+        if(balala;lasd)
     return 0;
 }
